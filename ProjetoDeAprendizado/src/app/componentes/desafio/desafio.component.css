@@ -1,0 +1,14 @@
+.TituloMaster{
+  color: blue;
+  font-family: fantasy;
+  font-size: larger;
+
+}
+.MensagemPrincipal{
+  color :Black;
+  border-radius: 15%;
+  font-family: sans-serif;
+}
+.cabecalho{
+  background-color: aquamarine;
+}
