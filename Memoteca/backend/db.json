@@ -1,0 +1,64 @@
+{
+  "pensamentos":[
+  {
+    "id": 1,
+    "conteudo": "Que bom que você veio",
+    "autoria": "Claudio",
+    "modelo": "modelo1"
+  },
+  {
+    "id": 2,
+    "conteudo": "Estamos felizes com sua presença",
+    "autoria": "Maria",
+    "modelo": "modelo2"
+  },
+  {
+    "id": 3,
+    "conteudo": "É uma grande alegria poder recebê-lo em nosso espaço. Sua presença aqui representa não apenas um momento especial, mas também a certeza de que estamos construindo laços fortes. Esperamos que esta experiência seja marcante e repleta de boas memórias para você.",
+    "autoria": "João",
+    "modelo": "modelo1"
+  },
+  {
+    "id": 4,
+    "conteudo": "Sinta-se acolhido",
+    "autoria": "Ana",
+    "modelo": "modelo3"
+  },
+  {
+    "id": 5,
+    "conteudo": "Seja muito bem-vindo",
+    "autoria": "Carlos",
+    "modelo": "modelo2"
+  },
+  {
+    "id": 6,
+    "conteudo": "Queremos que você se sinta à vontade em todos os momentos, sabendo que este lugar foi preparado com carinho e dedicação para te receber. Valorize sua jornada, conecte-se com as pessoas e aproveite tudo que preparamos para tornar sua vinda inesquecível e significativa.",
+    "autoria": "Fernanda",
+    "modelo": "modelo1"
+  },
+  {
+    "id": 7,
+    "conteudo": "Gratidão pela sua visita",
+    "autoria": "Rafael",
+    "modelo": "modelo3"
+  },
+  {
+    "id": 8,
+    "conteudo": "Esperamos que volte sempre",
+    "autoria": "Juliana",
+    "modelo": "modelo2"
+  },
+  {
+    "id": 9,
+    "conteudo": "Recebê-lo aqui é motivo de imensa satisfação. Este momento foi preparado com atenção aos detalhes, buscando proporcionar acolhimento, integração e boas lembranças. Sua participação enriquece nosso ambiente e fortalece a comunidade que desejamos construir.",
+    "autoria": "Lucas",
+    "modelo": "modelo1"
+  },
+  {
+    "id": 10,
+    "conteudo": "Nossa casa é sua casa",
+    "autoria": "Beatriz",
+    "modelo": "modelo3"
+  }
+]
+}
